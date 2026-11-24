@@ -1,0 +1,6 @@
+{
+  "name": "Word Bomb Royale",
+  "description": "9:16 vertical interactive TikTok Live word elimination game show with real-time 2D physics avatars, escalating word rules, procedural arcade audio, and live chat simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
